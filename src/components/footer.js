@@ -15,7 +15,7 @@ export default function LabelBottomNavigation() {
   };
 
   return (
-    <BottomNavigation  value={value} onChange={handleChange} justifyContent="center" alignItems="center">
+    <BottomNavigation value={value} onChange={handleChange} justifyContent="center" alignItems="center">
       <BottomNavigationAction
         label="Recents"
         value="recents"
