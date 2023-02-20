@@ -1,6 +1,7 @@
 import ButtonAppBar from './components/navbar';
 import Grid from './components/grid';
 import Footer from './components/footer';
+import Gallery from './components/videogallery';
 import { Typography } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
@@ -40,7 +41,7 @@ function App() {
       <div style={mystyle}>
         <Grid/>
       </div>
-      
+      <Gallery/>
       <Footer/>
     </div>
     
