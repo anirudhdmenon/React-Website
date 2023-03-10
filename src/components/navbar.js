@@ -65,7 +65,7 @@ function DrawerAppBar(props) {
             component="div"
             sx={{ flexGrow: 0, display: { xs: 'none', sm: 'block' } }}
           >
-            My Portfolio
+            My React Website
           </Typography>
           <Box sx={{ flexGrow: 2, display: { xs: 'none', sm: 'block' }, marginLeft: 'auto' }} />
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
