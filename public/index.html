@@ -1,21 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script async  data-cookieyes="cookieyes-analytics" src="https://www.googletagmanager.com/gtag/js?id=UA-144842869-1"></script>
+
     <script>
-      function getCookie(name) {
-      
-          var re = new RegExp(name + "=([^;]+)");
-          var value = re.exec(document.cookie);
-          return (value != null) ? unescape(value[1]) : 'no';
-      }
-          
-      if (getCookie('cky-consent') == 'yes' && getCookie('cookieyes-analytics') == 'yes') {
-      
-          // Enable my Analytics tracking as the analytics category consent and overall consent is granted
-          // Add anlytics script here
-      
-      }
-      </script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-144842869-1');
+    </script>
     <!-- Start cookieyes banner -->
     <script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/18f1adeb745431ea0eae5b91/script.js"></script>
     <!-- End cookieyes banner --> 
