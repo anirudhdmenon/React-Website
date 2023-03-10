@@ -10,9 +10,9 @@ export default function ImgMediaCard() {
         <div style={{textAlign: "center"}}>
             <CardMedia>
                 <iframe
-                    width="100%"
-                    height="300"
-                    src="https://www.youtube.com/watch?v=R8Y7NWC5jgM"
+                    width="80%"
+                    height="600"
+                    src="https://www.youtube.com/embed/cqcVT-X2hXs"
                     title="YouTube video player"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
