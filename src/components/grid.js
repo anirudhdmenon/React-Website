@@ -53,20 +53,21 @@ export default function BasicGrid() {
                         <MoreVertIcon />
                     </IconButton>
                     }
-                    title="Shrimp and Chorizo Paella"
-                    subheader="September 14, 2022"
+                    title="Goi cuon (summer roll), Vietnam"
+                    subheader="January 14, 2023"
                 />
                 <CardMedia
                     component="img"
                     height="194"
-                    image= "../food1.jpg"
-                    alt="My Image1"
+                    image= "https://media.cnn.com/api/v1/images/stellar/prod/170306134418-goi-cuon.jpg?q=x_4,y_213,h_2348,w_4174,c_crop/h_720,w_1280"
+                    alt="Goi cuon"
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                    This impressive paella is a perfect party dish and a fun meal to cook
-                    together with your guests. Add 1 cup of frozen peas along with the mussels,
-                    if you like.
+                    This snack made from pork, shrimp, herbs, rice vermicelli and other ingredients wrapped in 
+                    rice paper is served at room temperature. It's “meat light,” with the flavors of refreshing 
+                    herbs erupting in your mouth. Dipped in a slightly sweet Vietnamese sauce laced with ground 
+                    peanuts, it's wholesome, easy and the very definition of “moreish.”
                     </Typography>
                 </CardContent>
                 <CardActions disableSpacing>
@@ -132,20 +133,21 @@ export default function BasicGrid() {
                         <MoreVertIcon />
                     </IconButton>
                     }
-                    title="Shrimp and Chorizo Paella"
-                    subheader="September 14, 2022"
+                    title="Seafood paella, Spain"
+                    subheader="October 14, 2022"
                 />
                 <CardMedia
                     component="img"
                     height="194"
-                    image= "../food1.jpg"
+                    image= "https://media.cnn.com/api/v1/images/stellar/prod/170206165040-dubai-michelin-dining-boca.jpg?q=x_3,y_140,h_1516,w_2694,c_crop/h_720,w_1280"
                     alt="My Image1"
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                    This impressive paella is a perfect party dish and a fun meal to cook
-                    together with your guests. Add 1 cup of frozen peas along with the mussels,
-                    if you like.
+                    The sea is lapping just by your feet, a warm breeze whips the tablecloth around your legs 
+                    and a steamy pan of paella sits in front of you. Shrimp, lobster, mussels and cuttlefish 
+                    combine with white rice and various herbs, oil and salt in this Valencian dish to send you 
+                    immediately into holiday mode. Though if you have it in Spain, you’re probably there already.
                     </Typography>
                 </CardContent>
                 <CardActions disableSpacing>
@@ -211,20 +213,22 @@ export default function BasicGrid() {
                         <MoreVertIcon />
                     </IconButton>
                     }
-                    title="Shrimp and Chorizo Paella"
-                    subheader="September 14, 2022"
+                    title="Som tam, Thailand"
+                    subheader="December 28, 2022"
                 />
                 <CardMedia
                     component="img"
                     height="194"
-                    image= "../food1.jpg"
-                    alt="My Image1"
+                    image= "https://media.cnn.com/api/v1/images/stellar/prod/170302150230-som-tam.jpg?q=x_2,y_192,h_1150,w_2043,c_crop/h_720,w_1280"
+                    alt="Som tam"
                 />
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">
-                    This impressive paella is a perfect party dish and a fun meal to cook
-                    together with your guests. Add 1 cup of frozen peas along with the mussels,
-                    if you like.
+                    To prepare Thailand’s most famous salad, pound garlic and chilies with a mortar and pestle. 
+                    Toss in tamarind juice, fish sauce, peanuts, dried shrimp, tomatoes, lime juice, sugar cane 
+                    paste, string beans and a handful of grated green papaya. Grab a side of sticky rice. 
+                    Variations include those made with crab (som tam boo) and fermented fish sauce (som tam plah 
+                    lah), but none matches the flavor and simple beauty of the original.
                     </Typography>
                 </CardContent>
                 <CardActions disableSpacing>

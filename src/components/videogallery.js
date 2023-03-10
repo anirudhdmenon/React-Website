@@ -9,17 +9,14 @@ export default function ImgMediaCard() {
     <Card sx={{ display: 'flex' }}>
         <div style={{textAlign: "center"}}>
             <CardMedia>
-                <video
-                    autoPlay
-                    loop
-                    muted
-                    poster="https://assets.codepen.io/6093409/river.jpg"
-                >
-                    <source
-                        src="https://assets.codepen.io/6093409/river.mp4"
-                        type="video/mp4"
-                    />
-                </video>
+                <iframe
+                    width="100%"
+                    height="300"
+                    src="https://www.youtube.com/watch?v=R8Y7NWC5jgM"
+                    title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                />
                 <Typography>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet felis a ante semper 
                     ultrices at vel odio. Aenean fringilla quam risus, at aliquam nisl luctus eu. Duis fringilla congue 
