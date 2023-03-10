@@ -1,8 +1,3 @@
-WEBSITE: 1. https://react-website-black.vercel.app/
-2. https://react-website-git-master-anirudhdmenon.vercel.app/
-3. https://react-website-anirudhdmenon.vercel.app/
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
