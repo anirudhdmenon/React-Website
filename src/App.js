@@ -42,14 +42,14 @@ function App() {
             Ut commodo semper eros id mattis. Morbi varius vulputate nisi. <br/>Pellentesque eget purus a elit volutpat 
             feugiat ut sit amet nibh.</Typography>
         </ThemeProvider>
+        <div style="text-align: center;">
+          <iframe width="50%" height="600" src="https://www.youtube.com/embed/tgbNymZ7vqY" style="margin:10px"></iframe>
+        </div> 
       </div>
       <div style={mystyle}>
         <Grid/>
       </div>
       <Gallery/>
-      <div style="text-align: center;">
-        <iframe width="50%" height="600" src="https://www.youtube.com/embed/tgbNymZ7vqY" style="margin:10px"></iframe>
-      </div> 
       <Footer/>
     </div>
   );
