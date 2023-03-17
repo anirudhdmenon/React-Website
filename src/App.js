@@ -47,9 +47,11 @@ function App() {
         <Grid/>
       </div>
       <Gallery/>
+      <div style="text-align: center;">
+        <iframe width="50%" height="600" src="https://www.youtube.com/embed/tgbNymZ7vqY" style="margin:10px"></iframe>
+      </div> 
       <Footer/>
     </div>
-    
   );
 }
 export default App;
