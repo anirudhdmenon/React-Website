@@ -19,11 +19,6 @@ const theme = createTheme({
   },
 });
 
-<script id="cookieyes" type="text/javascript" 
-        src="https://scriptstaging.cookieyes.com/client_data/18f1adeb745431ea0eae5b91/script.js">
-</script>
-
-
 function App() {
   const mystyle = {
     marginTop:"20px",
